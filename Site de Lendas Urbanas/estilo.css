@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(39, 31, 31);
+}
+
+.nav-link{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.navbar-brand{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.spacer {
+    height: 95px;
+}
